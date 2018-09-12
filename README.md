@@ -1,5 +1,5 @@
 # Night Mode for Instagram
-Enjoy Instagram web in the new night blue colors and protect your eyes
+Enjoy Instagram web in the new night blue colors and protect your eyes 🌚 🖥️
 
 ![](imgs/screenshots1.png)
 
