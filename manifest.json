@@ -2,7 +2,7 @@
  "manifest_version": 2,
  "name": "Night Mode for Instagram",
  "description": "Enjoy Instagram web in the new night blue colors and protect your eyes",
- "version": "1.0.2",
+ "version": "1.0.47",
  "author": "SmartLink",
 "browser_action": {
    "default_title": "Have a good day"

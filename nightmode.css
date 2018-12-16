@@ -550,13 +550,13 @@ a.T-jvg, a.T-jvg:visited {
   .coreSpriteProfileCamera,
   .coreSpriteNotificationLeftChevron,
   .coreSpritePagingChevron,
-  .coreSpriteLoggedOutWordmark
+  .coreSpriteLoggedOutWordmark,
    {
       filter: invert(100%) !important;
   }
-  .glyphsSpriteHeart__filled__24__red_5{
+  /* .glyphsSpriteHeart__filled__24__red_5{
     filter: invert(100%) !important;
-  }
+  } */
 
   article{
     background-color: #243447 !important;
@@ -654,3 +654,41 @@ section > main > div > ul > li:first
   .gr27e {
     background-color: #243447 !important;
   }
+
+
+  .glyphsSpriteMobile_nav_type_logo,
+  .glyphsSpriteApp_instagram__outline__24__grey_9,
+  .SvO5t,
+  .coreSpriteDesktopNavExplore,
+  .coreSpriteDesktopNavActivity,
+  .coreSpriteDesktopNavProfile,
+  .glyphsSpriteHeart__outline__24__grey_9,
+  .glyphsSpriteComment__outline__24__grey_9,
+  .glyphsSpriteShare__outline__24__grey_9,
+  .glyphsSpriteSave__outline__24__grey_9,
+  .glyphsSpriteMail__outline__24__grey_9,
+  .glyphsSpriteLink__outline__24__grey_9,
+  .glyphsSpriteX__outline__24__grey_9,
+  .felixSpriteProfileChannelNullState,
+  .coreSpriteTaggedNull,
+  .glyphsSpriteSave__filled__24__grey_9,
+  .coreSpriteDropdownArrowGrey9,
+  .glyphsSpriteMore_horizontal__outline__24__grey_9,
+  .glyphsSpriteSafari__outline__24__grey_9,
+  .glyphsSpriteUser__outline__24__grey_9,
+  .glyphsSpriteSettings__outline__24__grey_9,
+  .coreSpriteDesktopPhotoGridActive,
+  .coreSpriteDesktopProfileIGTVActive,
+  .coreSpriteDesktopProfileSaveActive,
+  .coreSpriteDesktopProfileTaggedActive
+   {
+      filter: invert(100%) !important;
+  }
+
+
+  .DPiy6 {
+      background-color: #1b2732 !important;
+  }
+  .b2rUF {
+    border: 1px solid #607786 !important;
+}
