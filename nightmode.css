@@ -681,7 +681,8 @@ color: #ffffff  !important;
 .coreSpriteDesktopProfileIGTVActive,
 .coreSpriteDesktopProfileSaveActive,
 .coreSpriteDesktopProfileTaggedActive,
-.Gzt1P
+.Gzt1P,
+.coreSpritePagingChevron
  {
     filter: invert(100%) !important;
 }
