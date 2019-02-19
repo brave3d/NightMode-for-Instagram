@@ -13,7 +13,7 @@
 }
 
 a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
-  color: #ffffff !important;
+  color: #e6e6e6 !important;
 }
 
 .jQgLo {
@@ -684,6 +684,7 @@ color: #ffffff  !important;
 
 .DPiy6 {
     background-color: #1b2732 !important;
+    border-color: #607786 !important;
 }
 .b2rUF {
   border: 1px solid #607786 !important;
@@ -701,4 +702,13 @@ color: #ffffff  !important;
 ._41KYi,.LQtnO{
   background: #253748;
   border: 1px solid #607786;
+}
+._0T_XJ::before, ._0T_XJ::after  {
+    background-image: none !important;
+}
+.IwRSH {
+    background: #243447 !important;
+}
+button div.IwRSH{
+  background: none !important;
 }
